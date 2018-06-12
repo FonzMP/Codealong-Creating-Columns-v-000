@@ -119,7 +119,7 @@ section {
 .wrapper {
   width: 1080px;
   margin: 0 auto;
-  background-color: #eee;
+  /*background-color: #eee;*/
 }
 
 .col-1 {
