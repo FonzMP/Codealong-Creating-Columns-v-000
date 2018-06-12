@@ -100,6 +100,10 @@ section {
   z-index: 1;
 }
 
+#social a {
+  display: block;
+}
+
 .wrapper {
   width: 1080px;
   margin: 0 auto;
