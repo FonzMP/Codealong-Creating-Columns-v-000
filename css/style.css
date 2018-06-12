@@ -97,6 +97,7 @@ section {
   top: 20px;
   right: 20px;
   width: 40px;
+  z-index: 1;
 }
 
 .wrapper {
