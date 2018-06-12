@@ -82,7 +82,7 @@ figcaption {
 .col-1 {
   float: left;
   width: 32%;
-  margin: 0 2%;
+  margin: 0 2% 0 0;
 }
 
 .col-2 {
