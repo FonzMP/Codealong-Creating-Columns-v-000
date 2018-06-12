@@ -94,6 +94,8 @@ section {
 
 #social {
   position: fixed;
+  top: 20px;
+  right: 20px;
 }
 
 .wrapper {
