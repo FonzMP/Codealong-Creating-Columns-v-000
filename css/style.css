@@ -92,6 +92,10 @@ section {
 
 /******* Layout *******/
 
+.social {
+  position: fixed;
+}
+
 .wrapper {
   width: 1080px;
   margin: 0 auto;
